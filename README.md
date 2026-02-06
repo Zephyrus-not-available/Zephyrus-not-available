@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Kyaw Hlaing Soe 👋<br><br>I'm a Computer Engineering & IT student at TU Kyaukse, minoring in Artificial Intelligence. <br>I spend most of my time building backend services and exploring the depths of the Spring ecosystem.
+Hi, I'm Kyaw Hlaing Soe 👋<br><br>I'm a Computer Engineering & IT student at TU Kyaukse, minoring in Artificial Intelligence. <br>I spend most of my time building backend services and exploring the depths of the Spring ecosystem.
 
 
 ## 🌐 Socials:
