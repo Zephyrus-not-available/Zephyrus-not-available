@@ -19,5 +19,3 @@ Backend Engineer specialized in **Java (Spring Boot)** and **PostgreSQL**. Focus
 <div align="center">
   <sub>Stay focused. Build scalable.</sub>
 </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
